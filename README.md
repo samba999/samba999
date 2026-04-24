@@ -1,5 +1,8 @@
 # 💫 About Me:
-👋 Hey there, I'm Samin Alam!<br><br>🔭 I’m currently working on **Rex.Ai**, a tool that helps businesses take control of their online reputation by automating Google & other review replies using LLM-powered suggestions. Think smarter responses, less stress, and better customer vibes.<br><br>👯 I’m looking to collaborate on **web development projects** that mix tech with real-world impact — whether that’s food, local business tools, or culture-based ideas.<br><br>🤝 I’m looking for help with:<br>- UX/UI design and polish (I want my tools to *feel* good)<br>- Scaling backend systems and handling API integrations<br>- Testing MVPs with actual users and real feedback<br><br>🌱 I’m currently learning:<br>- React + Shadcn UI for clean, modern interfaces<br>- Google APIs & automation (for projects like Rex.Ai)<br>- Cybersecurity fundamentals (CompTIA A+ & Security+ in progress)<br><br>💬 Ask me about:<br>- Balancing software dreams with shifts at a pizza shop 🍕🧑‍💻<br>- Starting a small  fashion accessories business with my mom (Milli's Collections Canada)<br>- My journey back into tech after a gap year<br>- Food, football, or the future of AI tools for everyday people<br><br>⚡ Fun fact:<br>I still work at a pizza shop where I’ve worn every hat — cook, cashier, cleaner, manager. Now I’m flipping code and dreaming of tech that empowers small businesses (like the ones I work in).<br>
+Samin Alam — Developer based in Toronto
+CS grad building full-stack web apps with a focus on clean UI and practical AI tooling.
+Currently working on Aufeuo — a luxury e-commerce boutique — and Contract Lens, an AI tool that reads contracts and surfaces what actually matters in plain English.
+Always building something. Open to freelance work and interesting problems.
 
 
 ## 🌐 Socials:
