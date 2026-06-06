@@ -2,7 +2,7 @@
 Samin Alam — Developer based in Toronto
 CS grad building full-stack web apps with a focus on clean UI and practical AI tooling.
 Currently working on Aufeuo — a luxury e-commerce boutique — and Contract Lens, an AI tool that reads contracts and surfaces what actually matters in plain English.
-Always building something. Open to freelance work and interesting problems.
+Always building something. Open to consulting work and interesting problems.
 
 
 ## 🌐 Socials:
